@@ -5,8 +5,8 @@ def penjumlahan(a, b):
 
 
 try:
-    angka1 = float(input("Masukkan angka pertama: "))
-    angka2 = float(input("Masukkan angka kedua: "))
+    angka1 = int(input("Masukkan angka pertama: "))
+    angka2 = int(input("Masukkan angka kedua: "))
 
     hasil = penjumlahan(angka1, angka2)
 
